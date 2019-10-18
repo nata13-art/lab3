@@ -1,2 +1,3 @@
-# lab3
-laboratorium3
+# Lab3
+laboratorium 3 Natalia Bienkowska
+Zadanie
